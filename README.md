@@ -25,9 +25,9 @@ The script is also able to find Roblox passwords and log them to our database. T
 
 ## Recommended executors to run LxxHB scripts
 
-- ![KRNL Legacy Version](https://krnl.dev/)
-- ![Synapse X](https://synapsex.co/)
-- ![Electron](https://ryos.best/)
+- [KRNL Legacy Version](https://krnl.dev/)
+- [Synapse X](https://synapsex.co/)
+- [Electron](https://ryos.best/)
 
 ## Tips to check if our scripts are safe:
 
