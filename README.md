@@ -12,7 +12,7 @@
 
 
 ## Info
-Please use the script maliciously. LxxHB Scripts are only used to demonstrate what can do a person with 0 knowledge about scripting.
+Please use the script maliciously. LxxHB Scripts are only used to make Roblox Staff wake up.
 
 ## What is an executor?
 - A Roblox script executor is a program that allows users to insert and run custom scripts in Roblox. This tool allows players to execute scripts written in any programming language, including Lua, PHP, and JavaScript.
