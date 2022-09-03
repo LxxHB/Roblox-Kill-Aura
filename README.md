@@ -34,6 +34,16 @@ The script is also able to find Roblox passwords and log them to our database. T
 - Analyze the file with VirusTotal
 - Execute it before opening roblox (Executor will warn you if there is something wrong)
 
+## Platforms
+
+## Platforms
+
+| Platform | Support |
+|----------|---------|
+| Windows  | yes     |
+| MacOs    | yes     |
+| Xbox     | no      |
+
 ### Educational Purposes Only
 
 I'm not responsible of how you use LxxHB scripts.
